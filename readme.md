@@ -252,6 +252,15 @@ console.log(reverseArr)
 
 
 
+
+## Solved another problem
+10. Sum of Even Numbers
+11. Find First Negative Number
+12. Check Number Exists or Not
+13. Count Positive Numbers
+14. Multiply All Numbers
+
+
 ## 🎯 Goal of This Repository
 
 - JavaScript fundamentals strong করা
